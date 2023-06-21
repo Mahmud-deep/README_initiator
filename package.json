@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mahmud-deep/README_initiator/issues"
   },
-  "homepage": "https://github.com/Mahmud-deep/README_initiator#readme"
+  "homepage": "https://github.com/Mahmud-deep/README_initiator#readme",
+  "dependencies": {
+    "inquirer": "^2.0.0"
+  }
 }
