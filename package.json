@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Mahmud-deep/README_initiator#readme",
   "dependencies": {
-    "inquirer": "^2.0.0"
+    "inquirer": "^8.2.4"
   }
 }
