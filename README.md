@@ -35,6 +35,10 @@ THEN I am taken to the corresponding section of the README
 
 https://drive.google.com/file/d/1rrBrLT3cUqOH7W1VJIvVqlCu_5wRB8zJ/view
 
+https://mahmud-deep.github.io/README_initiator/
+
+https://github.com/Mahmud-deep/README_initiator
+
 
 # Review
 
